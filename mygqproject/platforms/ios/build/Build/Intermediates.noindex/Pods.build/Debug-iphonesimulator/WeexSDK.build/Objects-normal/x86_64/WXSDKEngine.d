@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Engine/WXSDKEngine.m \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/Target\ Support\ Files/WeexSDK/WeexSDK-prefix.pch \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXDefine.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Engine/WXSDKEngine.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Debug/WXDebugTool.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXModuleProtocol.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXSDKInstance.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXComponent.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXType.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Model/WXJSExceptionInfo.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceResponse.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceRequest.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXBridgeProtocol.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Performance/WXApmForInstance.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXModuleFactory.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXHandlerFactory.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXComponentFactory.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXInvocationConfig.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXBridgeMethod.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXBridgeManager.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXAppConfiguration.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceRequestHandlerDefaultImpl.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Network/WXResourceRequestHandler.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Handler/WXNavigationDefaultImpl.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXNavigationProtocol.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Handler/WXURLRewriteDefaultImpl.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXURLRewriteProtocol.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Handler/WXJSFrameworkLoadDefaultImpl.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXJSFrameworkLoadProtocol.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXSDKManager.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Engine/WXSDKError.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Monitor/WXMonitor.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXSimulatorShortcutManager.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXAssert.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXLog.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Utility/WXUtility.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Manager/WXExtendCallNativeManager.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Monitor/WXExceptionUtils.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Protocol/WXConfigCenterProtocol.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Layout/WXComponent+Layout.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/flex_enum.h \
+  /Users/admin/Desktop/Weex/mygqproject/platforms/ios/Pods/WeexSDK/ios/sdk/WeexSDK/Sources/Bridge/WXCoreBridge.h
